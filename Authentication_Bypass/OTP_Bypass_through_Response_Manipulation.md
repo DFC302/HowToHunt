@@ -1,5 +1,9 @@
 # OTP Bypass response manipulation( Register or login or password reset )
 
+### What is OTP?
+
+A one-time password, also known as one-time PIN or dynamic password, is a password that is valid for only one login session or transaction, on a computer system or other digital device.
+
 ### Steps:
  
   ```
